@@ -3,7 +3,7 @@
 _pkgname=mos-chinadns
 pkgname=$_pkgname
 pkgver=1.5.2
-pkgrel=1
+pkgrel=2
 pkgdesc="Provides a local DNS server that prevents GFW DNS poisoning"
 arch=('x86_64' 'aarch64')
 url="https://github.com/IrineSistiana/mos-chinadns"
