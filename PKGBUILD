@@ -20,8 +20,8 @@ source=("$pkgbasename.tar.gz::$url/archive/v$pkgver.tar.gz"
   "$_pkgname.yaml"
   )
 sha256sums=('145ff178ecf80cde091f0b99f50cd479132c90f688a01ee744644f2f7bfd5c1f'
-            'b090d24740b96f289b62b0dde73c4e1f372bb640ac631c49bb36351f56c07c17'
-            '7302819d1dd3a98abb18847ff435e1630e58208aef2fe33451aa8314acd8d6e3'
+            '276f1ed8f96efca5103f3b2e51f5ab50dc7ad921ee2990134c5aa1ff47452804'
+            '528d7e95297d0f7e4e03016dbaed382ff4ca6241c63c82ed1ec2d7d5d87eb2cc'
             '3b12eb4b41136391bda12edbb77bf89a89335875aff654677f3f70fe020cd548')
 
 prepare() {
